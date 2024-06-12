@@ -6,6 +6,3 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 rabbitmq
-minio
-redis
-nginx
