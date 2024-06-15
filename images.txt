@@ -8,3 +8,4 @@ xhofe/alist:latest
 rabbitmq
 rabbitmq:3.8.1-management
 redis
+registry
