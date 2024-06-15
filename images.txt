@@ -10,3 +10,5 @@ rabbitmq:3.8.1-management
 redis
 registry
 openjdk:24-slim-bullseye
+openjdk
+openjdk:17-jdk-alpine
