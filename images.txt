@@ -9,4 +9,4 @@ rabbitmq
 rabbitmq:3.8.1-management
 redis
 registry
-openjdk
+openjdk:24-slim-bullseye
