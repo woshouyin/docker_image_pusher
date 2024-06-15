@@ -9,3 +9,4 @@ rabbitmq
 rabbitmq:3.8.1-management
 redis
 registry:2
+openjdk:17-jdk-alpine
